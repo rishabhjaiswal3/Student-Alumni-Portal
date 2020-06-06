@@ -1,5 +1,5 @@
 # Student-Alumni-Portal
- This is a Student Alumni portal created using Tkinter library and Mysql Database.
+ This is a Student Alumni portal created using Tkinter library and Mysql Database.This is standlone application which can store the information of Alumni. Here you can apply the <a href="https://en.wikipedia.org/wiki/Create,_read,_update_and_delete#:~:text=In%20computer%20programming%2C%20create%2C%20read,or%20destroy%20instead%20of%20delete.">CRUD</a> Operations on your database. When you will run this application you will get a User Interface like below.
  
  # Dependency
  <ul>
